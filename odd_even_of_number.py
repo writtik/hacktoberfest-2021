@@ -4,6 +4,7 @@
 
 num = int(input("Enter a number: "))
 if (num % 2) == 0:
+   print("WE ARE HERE in IF")
    print("{0} is Even".format(num))
 else:
    # for debug
