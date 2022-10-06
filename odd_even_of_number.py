@@ -3,6 +3,7 @@
 # If the remainder is 1, it is an odd number.
 
 num_list = input("Enter a list of number: "))
+num_dict = input("Enter a dict of count and list number: "))
 # find odd even in array
 # check if only int instance
 for num in num_list:
