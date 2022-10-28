@@ -13,5 +13,7 @@ for num in num_list:
          print("{0} is Even".format(num))
       else:
          # for debug
+         # this is for 4th one
+         print("Only debug purpose")
          print("WE ARE HERE")
          print("{0} is Odd".format(num))
